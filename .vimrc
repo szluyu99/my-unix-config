@@ -11,7 +11,6 @@ set mouse=a 		" 激活鼠标的使用
 
 "" 主题美化
 "colorschem zellner	" 主题颜色
-"autocmd vimenter * ++nested colorscheme gruvbox
 set bg=dark			" 强制使用dark模式
 
 "" 显示 & 格式化
